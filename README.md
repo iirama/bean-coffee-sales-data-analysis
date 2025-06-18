@@ -143,23 +143,23 @@ https://github.com/user-attachments/assets/cf45afe1-1fea-4a6c-8da8-ece442d4d3dd
 
 ## 🎯Key Conclusions & Recommendations
 ### 1. Product Strategy
-✅ Premium focus: Promote Ethiopian coffee (highest price at 45 SAR)
-✅ Bundle deals: Pair Colombian & Costa Rica (top sellers)
-⚠️ Reposition Brazilian coffee: Lowest revenue despite mid-tier pricing
+  ✅ Premium focus: Promote Ethiopian coffee (highest price at 45 SAR)
+  ✅ Bundle deals: Pair Colombian & Costa Rica (top sellers)
+  ⚠️ Reposition Brazilian coffee: Lowest revenue despite mid-tier pricing
 
 ### 2. Geographic Expansion
-📈 Double down on Hail & Jeddah (high growth, high demand)
-🔄 Turnaround plan for Tabuk:
-  • Investigate low sales 
-  • Test localized promotions
+  📈 Double down on Hail & Jeddah (high growth, high demand)
+  🔄 Turnaround plan for Tabuk:
+    • Investigate low sales 
+    • Test localized promotions
 
 ### 3. Customer Retention
-🎯 VIP program for top 10 customers.
-📢 Reactivation campaigns for low-spending customers.
+  🎯 VIP program for top 10 customers.
+  📢 Reactivation campaigns for low-spending customers.
 
 ### 4. Seasonal Adjustments
-📅 Boost Q1 sales (post-holiday slump)
-☀️ Summer loyalty program (peak demand period)
+  📅 Boost Q1 sales (post-holiday slump)
+  ☀️ Summer loyalty program (peak demand period)
 
 ---
 
