@@ -1,5 +1,9 @@
 # ☕🫘 Bean sales in Saudi Arabia - Comprehensive Coffee Analytics 
 
+![Analytics Pipeline](https://img.shields.io/badge/Flow-EDA→Advanced→PowerBI-blueviolet)
+![Data Scope](https://img.shields.io/badge/Years-2023%E2%80%932024-yellowgreen)
+![License](https://img.shields.io/badge/License-Dual%20(MIT%20+%20SQL)-lightgrey)
+
 ```mermaid
 flowchart LR
     A[ 🔍 EDA Foundation] --> B[🔬 Advanced SQL]
