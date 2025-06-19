@@ -1,5 +1,15 @@
 # ☕🫘 Bean sales in Saudi Arabia - Comprehensive Coffee Analytics 
 
+```mermaid
+flowchart LR
+    A[ 🔍 EDA Foundation] --> B[🔬 Advanced SQL]
+    B --> C[📊 Power BI]
+    C --> D{{"Executive Dashboards"}}
+    style A fill:#5C4033,stroke:#333,stroke-width:2px,color:white  
+    style B fill:#A0522D,stroke:#333,stroke-width:2px,color:white  
+    style C fill:#D2B48C,stroke:#333,stroke-width:2px,color:black  
+    style D fill:#F5DEB3,stroke:#333,stroke-width:2px,color:black  
+```
 
 ## 🌟 Overview
 An end-to-end analytics solution combining exploratory data analysis, advanced time-series modeling, and interactive dashboards for Saudi coffee sales (Jan 2023-Dec 2024).
