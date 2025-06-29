@@ -167,14 +167,9 @@ https://github.com/user-attachments/assets/cf45afe1-1fea-4a6c-8da8-ece442d4d3dd
   📈 Double down on Hail & Jeddah (high growth, high demand).
   
   🔄 Turnaround plan for Tabuk: Investigate low sales , Test localized promotions.
-
-### 3. Customer Retention
-
-  🎯 VIP program for top 10 customers.
   
-  📢 Reactivation campaigns for low-spending customers.
 
-### 4. Seasonal Adjustments
+### 3. Seasonal Adjustments
   📅 Boost Q1 sales (post-holiday slump).
   
   ☀️ Summer loyalty program (peak demand period).
